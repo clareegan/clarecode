@@ -16,9 +16,9 @@
     ],
     "terminal.integrated.fontFamily": "monospace",
     "git.confirmSync": false,
-    "powershell.cwd": "Capstone",
+    "powershell.cwd": "Project",
     "explorer.confirmDragAndDrop": false,
     "git.autofetch": true,
-    "python.testing.cwd": "Capstone",
+    "python.testing.cwd": "Project",
     "pylint.cwd": "${fileDirname}"
 }
