@@ -2,7 +2,7 @@
 ### *Project by Clare Egan*
 
 
-<img src="/workspaces/Capstone/Butterflies.jpg"/>
+<img src="/workspaces/Capstone/Butterflies.jpg">
 
 
 
