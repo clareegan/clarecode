@@ -18,11 +18,11 @@ As my Tableau visualizations demonstrate, the majority of Monarchs live and migr
 1. Python 3 is required. This project is written using version 3.12.0.  Make sure you have installed that version of Python from their website [here](https://www.python.org/ftp/python/3.12.0/python-3.12.0-macos11.pkg)
 2. Clone the repo from github, use this code
    ```
-   git clone https://github.com/clareegan/butterflies.git
+   git clone https://github.com/clareegan/Capstone.git
    ```
 3. Set up your working directory.
    ```
-    https://github.com/clareegan/butterflies.git
+   https://github.com/clareegan/Capstone.git
    ```
 4. Set up a virtual environment.
 
