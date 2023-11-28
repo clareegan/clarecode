@@ -2,7 +2,7 @@
 ### *Project by Clare Egan*
 
 
-<img src="/workspaces/Capstone/Butterflies.jpg">
+<img src="/workspaces/Capstone/Butterflies.jpg" alt="ACNH image" width="500" height="300">
 
 
 
